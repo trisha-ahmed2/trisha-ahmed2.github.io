@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"My Favorite Restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Restaurant": "Cholita Linda",
+			"City": "Berkeley",
+			"Dishes": "Carnitas tacos"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Restaurant": "Zyka",
+			"City": "Atlanta",
+			"Dishes": "Tandoori chicken"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Restaurant": "Red Hen",
+			"City": "Washington, D.C.",
+			"Dishes": "Spicy rigatoni"
 		}
 	]
 }
